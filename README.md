@@ -46,7 +46,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhu99priya&show_icons=true&theme=radical" alt="madhu99priya" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhu99priya&theme=radical" alt="GitHub Streak" />
+  <!---<img src="https://streak-stats.demolab.com?user=madhu99priya&theme=radical" alt="GitHub Streak" /> --->
 </p>
 
 ---
