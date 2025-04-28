@@ -44,7 +44,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhu99priya&show_icons=true&theme=radical" alt="madhu99priya" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhu99priya&show_icons=true&theme=radical&cache_seconds=1800" alt="madhu99priya" />
   <br />
   <!---<img src="https://streak-stats.demolab.com?user=madhu99priya&theme=radical" alt="GitHub Streak" /> --->
 </p>
