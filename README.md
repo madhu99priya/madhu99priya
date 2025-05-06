@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Madhusha Priyanjana</h1>
+<!---<h1 align="center">Hi 👋, I'm Madhusha Priyanjana</h1>--->
+<p align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi..👋,+I'm+Madhusha+Priyanjana.." alt="madhukajs" /></p> 
 <h3 align="center">B.Sc.(Hons) Engineering (UG) at Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 
 ---
