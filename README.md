@@ -2,7 +2,7 @@
 <h1 align="center">
   <img align="center" 
        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&size=30&lines=Hi...I'm+Madhusha+Priyanjana.." 
-       alt="Hi 👋, I'm Madhusha Priyanjana" />
+       alt="Hi 👋, I'm Madhusha Wijesinghe" />
 </h1> 
 <h3 align="center">B.Sc.(Hons) Engineering (UG) at Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 
